@@ -1,0 +1,27 @@
+from enum import Enum
+
+class MinecraftCrop(Enum):
+    WHEAT = "Wheat"
+    CARROT = "Carrot"
+    POTATO = "Potato"
+    BEETROOT = "Beetroot"
+    MELON = "Melon"
+    PUMPKIN = "Pumpkin"
+    SUGAR_CANE = "Sugar Cane"
+    BAMBOO = "Bamboo"
+   # COCOA_BEANS = "Cocoa Beans"
+   # NETHER_WART = "Nether Wart"
+   # KELP = "Kelp"
+   # SEAGRASS = "Seagrass"
+   # TALL_GRASS = "Tall Grass"
+   # WHEAT_SEEDS = "Wheat Seeds"
+   # BEETROOT_SEEDS = "Beetroot Seeds"
+   # PUMPKIN_SEEDS = "Pumpkin Seeds"
+   # MELON_SEEDS = "Melon Seeds"
+   # NETHER_WART_SEEDS = "Nether Wart Seeds"
+   # SWEET_BERRIES = "Sweet Berries"
+   # GLOW_BERRIES = "Glow Berries"
+   # POTATOES = "Potatoes"
+   # CARROTS = "Carrots"
+    NONE ="None"
+
